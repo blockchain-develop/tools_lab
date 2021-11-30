@@ -1,7 +1,6 @@
 package main
 
 import (
-	"github.com/tools_lab/graphql-todos/graph/generated"
 	"log"
 	"net/http"
 	"os"
